@@ -1,1 +1,2 @@
-arquivo de leitura 
+arquivo de leitura .
+teste de edição de arquivo. 
