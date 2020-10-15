@@ -1,2 +1,3 @@
-arquivo de leitura .
-teste de edição de arquivo. 
+atualizando meu README 
+
+inclui mais alguma linhas de código.
